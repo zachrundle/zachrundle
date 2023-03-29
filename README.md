@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach Rundle</h1>
 <h3 align="center">A DevOps Engineer from Kansas City</h3>
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ShyRealisticDavidstiger-max-1mb.gif">
+<img align="right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/679697/1651528615_102462_gif-url.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachrundle&label=Profile%20views&color=0e75b6&style=flat" alt="zachrundle" /> </p>
