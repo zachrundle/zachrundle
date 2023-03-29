@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachrundle&label=Profile%20views&color=0e75b6&style=flat" alt="zachrundle" /> </p>
 
-- 🌱 I’m currently learning **Go** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+🌱 I’m currently learning **Go** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
-- 🔭 I’m currently working on [Jad Slot Game](https://github.com/zachrundle/jad_slot_machine_terraform)
+🔭 I’m currently working on [Jad Slot Game](https://github.com/zachrundle/jad_slot_machine_terraform)
 
-- 📝 I regularly write articles on [cybershady.com](cybershady.com) (coming soon!)
+📝 I regularly write articles on [cybershady.com](cybershady.com) (coming soon!)
 
-- 💬 Ask me about **AWS, Terraform, Kubernetes, Python, Cloud Architecture, Networking**
+💬 Ask me about **AWS, Terraform, Kubernetes, Python, Cloud Architecture, Networking**
 
-- ⚡ Fun fact **I have a German Shepherd named Maverick!**
+⚡ Fun fact **I have a German Shepherd named Maverick!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
