@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on [Jad Slot Game](https://github.com/zachrundle/jad_slot_machine_terraform)
 
-📝 I regularly write articles on [cybershady.com](cybershady.com) (coming soon!)
+📝 I regularly write articles on [cloudcodecoffee.com](cloudcodecoffee.com) (coming soon!)
 
 💬 Ask me about **AWS, Terraform, Kubernetes, Python, Cloud Architecture, Networking**
 
