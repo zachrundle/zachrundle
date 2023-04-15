@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **Go** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
-🔭 I’m currently working on [Jad Slot Game](https://github.com/zachrundle/jad_slot_machine_terraform)
+🔭 I’m currently working on [cloudcodecoffee.com](https://github.com/zachrundle/cloudcodecoffee)
 
 📝 I regularly write articles on [cloudcodecoffee.com](cloudcodecoffee.com) (coming soon!)
 
