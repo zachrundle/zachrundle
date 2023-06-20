@@ -12,7 +12,7 @@
 
 📝 I regularly write articles on [cloudcodecoffee.com](cloudcodecoffee.com) (coming soon!)
 
-💬 Ask me about **AWS, Terraform, Kubernetes, Python, Cloud Architecture, Networking**
+💬 Ask me about **AWS, Terraform, Kubernetes, Linux, Cloud Architecture, Computer Networking**
 
 ⚡ Fun fact **I have a German Shepherd named Maverick!**
 
