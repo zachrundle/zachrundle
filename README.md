@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachrundle&label=Profile%20views&color=0e75b6&style=flat" alt="zachrundle" /> </p>
 
-🌱 I’m currently learning **Go** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-
-🔭 I’m currently working on [cloudcodecoffee.com](https://github.com/zachrundle/cloudcodecoffee)
+🌱 I’m currently working on my **RHCSA** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 📝 I regularly write articles on [cloudcodecoffee.com](cloudcodecoffee.com) (coming soon!)
 
