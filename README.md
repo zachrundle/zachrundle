@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Zach Rundle</h1>
-<h3 align="center">A DevOps Engineer from Kansas City</h3>
+<h3 align="center">A DevOps Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/679697/1651528615_102462_gif-url.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachrundle&label=Profile%20views&color=0e75b6&style=flat" alt="zachrundle" /> </p>
 
-🌱 I’m currently working on my **RHCSA** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+🌱 I’m currently working on my: **RHCSA certification** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-📝 I regularly write articles on [cloudcodecoffee.com](cloudcodecoffee.com) (coming soon!)
+📝 I regularly write articles on: [cloudcodecoffee.com](cloudcodecoffee.com) (coming soon!)
 
-💬 Ask me about **AWS, Terraform, Kubernetes, Linux, Cloud Architecture, Computer Networking**
+💬 Ask me about: **AWS, Terraform, Kubernetes, Linux, Cloud Architecture, Computer Networking**
 
-⚡ Fun fact **I have a German Shepherd named Maverick!**
+⚡ Fun fact: **I have a German Shepherd named Maverick!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
