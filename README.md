@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachrundle&label=Profile%20views&color=0e75b6&style=flat" alt="zachrundle" /> </p>
 
-🌱 I’m currently working on my: **RHCSA certification** <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+🌱 I’m currently working on: **writing DRY terraform code for cloudcodecoffee project**
 
 📝 I regularly write articles on: [cloudcodecoffee.com](cloudcodecoffee.com) (coming soon!)
 
