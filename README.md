@@ -30,7 +30,7 @@
 </div>
 
 <br/>
-<hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -40,14 +40,14 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 align="center" src="https://streak-stats.demolab.com?user=zachrundle&theme=react&border_radius=10" alt="GitHub Streak" /></a>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=zachrundle&show_icons=true&langs_count=8&border_radius=10&theme=react&rank_icon=github" alt="GitHub Stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachrundle&layout=compact&theme=react" alt="top langs"/>
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachrundle&layout=compact&theme=react" alt="top langs"/>
 </div>
 
 <br/><br/>
