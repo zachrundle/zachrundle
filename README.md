@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachrundle&show_icons=true&locale=en&layout=compact&theme=transparent" alt="zachrundle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachrundle&show_icons=true&locale=en&theme=transparent" alt="zachrundle" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachrundle&theme=transparent" alt="zachrundle" /></p>
