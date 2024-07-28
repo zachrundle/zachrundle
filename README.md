@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zach Rundle</h1>
-<h3 align="center">A DevOps Engineer</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svc">
+    <img src="https://readme-typing-svc.herokuapp.com/? font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&durataion=4000&lines=Hi+There!+👋;+I'm+Zach+Rundle!;A+Senior+DevOps+Engineer" />
+  </a>
+</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/679697/1651528615_102462_gif-url.gif">
 
